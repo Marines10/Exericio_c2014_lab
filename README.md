@@ -1,16 +1,12 @@
-# exercicios_c214_lab
+# Exercício 1 C214-lab
 
-A new Flutter project.
+A atividade consiste em  três testes unitários e um mock.
+## - testes unitário:
+  -verificando paridade de idade.
+  -verifica o maximo de desconto de um produto;
+  -verifica se dinheiro é válido.
+  
+ ## -teste mock:
+   -verifica qual o animal.
+  
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
